@@ -4,17 +4,17 @@
 
 ###
 
+<div align="center">
+  <img height="" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
+</div>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">- 💻Developer<br>- 📊Data Analyst</p>
-
-###
-
-<div align="center">
-  <img height="" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
-</div>
 
 ###
 
@@ -62,15 +62,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="35" alt="facebook logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif"  />
 
 ###
