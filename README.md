@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 
 ###
 
-<img align="right" height="" src="https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif"  />
+<img align="right" height="50" src="https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif"  />
 
 ###
 
