@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is Isaac, Samurai of Programming.</h1>
+<h1 align="center">Hi 👋! My name is Isaac, Samurai of Programming.</h1>
 
 ###
 
@@ -8,13 +8,9 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">- 💻Developer<br>- 📊Data Analyst</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img height="" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
@@ -40,7 +36,7 @@
 
 <br clear="both">
 
-<h2 align="left">Front-end techs</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -52,32 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Mobile Developer techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Back-End techs</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -88,7 +62,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/04/7c/3e/047c3e192e155f7d2fa88a8438648c46.gif"  />
+<img align="right" height="" src="https://i.pinimg.com/originals/7f/a5/72/7fa572c8e1c0adea5583285da8b08075.gif"  />
 
 ###
 
