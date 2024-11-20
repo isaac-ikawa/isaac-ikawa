@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 💻Developer<br>- 📊Data Analyst</p>
+<p align="left">- 💻Developer</p>
 
 ###
 
