@@ -2,6 +2,11 @@
   <img height="120" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiRGV2ZWxvcGVyIiwiaWF0IjoxNzMyMTQ5OTcxfQ.KBSsO-eJweiq0Znb9lJLeHz4Fpkx5O_awRjWpc2xqkc"  />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+
 ###
 
 <br clear="both">
