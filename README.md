@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">"Highly skilled and disciplined in the field of programming."</p>
+<h3 align="center">"Highly skilled and disciplined in the field of programming."</h3>
 
 ###
 
