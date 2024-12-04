@@ -14,10 +14,6 @@
 
 ###
 
-<h3 align="center">"Highly skilled and disciplined in the field of programming."</h3>
-
-###
-
 <div align="center">
   <img height="" src="https://i.pinimg.com/originals/42/4b/e8/424be84e5ba9c497650a99faaf6e684f.gif"  />
 </div>
@@ -57,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="50" alt="jquery logo"  />
 </div>
 
 ###
