@@ -73,6 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="50" alt="sass logo" />
 
 </div>
 
