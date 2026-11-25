@@ -33,8 +33,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaac-ikawa&layout=compact" height="150" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/isaac-ikawa?cardType=commits" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=isaac-ikawa&layout=compact" height="150" /> 
 </p>
 
 ###
